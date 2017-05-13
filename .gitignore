@@ -1,0 +1,14 @@
+class lesson1
+{
+pablic static void main (string [] args);{
+double a;
+Scanner scanner= New scaner(System.in);
+a = scanner.nextDouble();
+double b;
+b = scanner.nextDouble();
+System.out.println("Сумма = " + (a+b));
+System.out.println("Разница = " + (a-b));
+System.out.println("Умножение = " +(a*b));
+System.out.println("Деление = "+(a/b));
+}
+}

@@ -8,7 +8,7 @@ double b;
 b = scanner.nextDouble();
 System.out.println("Сумма = " + (a+b));
 System.out.println("Разница = " + (a-b));
-System.out.println("Умножение = " +(a*b));
-System.out.println("Деление = "+(a/b));
+System.out.println("Умножение = " + (a*b));
+System.out.println("Деление = " + (a/b));
 }
 }
